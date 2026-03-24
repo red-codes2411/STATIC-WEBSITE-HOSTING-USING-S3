@@ -14,7 +14,8 @@ This project utilizes a **Serverless Static Web Hosting** model. By removing the
     * **IAM Policies:** A specific bucket policy is applied to grant the CloudFront service principal `s3:GetObject` permissions, ensuring secure, identity-based access control.
 
 ---
-<img width="2537" height="1385" alt="image" src="https://github.com/user-attachments/assets/211ac011-62cf-433e-b14c-e9dd151caf02" />
+
+<img width="2537" height="1385" alt="image" src="https://github.com/user-attachments/assets/e27aca16-591c-438d-8f48-0d95e4ff0338" />
 
 ## 💡 Why This Approach?
 
