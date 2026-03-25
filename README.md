@@ -28,6 +28,10 @@ This project utilizes a **Serverless Static Web Hosting** model. By removing the
 
 ---
 
+<img width="1337" height="616" alt="Screenshot 2026-03-24 230524" src="https://github.com/user-attachments/assets/b7a516a8-b9e4-4c51-b577-218b610aaa70" />
+
+<img width="1562" height="899" alt="Screenshot 2026-03-24 230803" src="https://github.com/user-attachments/assets/b0751e4a-9e7a-4b62-b001-8b4147b132b7" />
+
 ## 🛠️ Roadmap for Improvement
 
 To modernize the workflow and move away from manual uploads, the following enhancements are planned:
